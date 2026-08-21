@@ -1,17 +1,20 @@
 # Bem vindo ao meu Perfil! 👋
-## Engenheiro de software sendo formado na FATESG. 🔭
-Gosto de matemática e de desafios, gosto da sensação de solucionar um problema.
+## 🎓 Engenheiro de software em formação na FATESG. 🔭
+-
 
-## 🌱 Meus conhecimentos:
-- programação orientada a Objeto;
-- Banco de dados;
-- Documentação (ERS/Requisitos);
-- Estruturas de dados (arvores, tabela hash, etc);
+# Sobre Mim:
+- 📍 Goiânia, GO;
+- 🌱 Sempre aprendendo algo novo e acompanhando novas tecnologias;
+- 💻 Desenvolvimento Backend
+- 📊 Banco de dados
 
-# ✨ Linguagens de programação:
+# 🛠️ Tecnologias:
 - Java
 - Python
+- GIT
 ## E planejo aprender mais no futuro! ⚡
+
+
 
 🤔 Curiosidade:
 já fui medalhista nas olimpíadas matemáticas estaduais, e gosto de um desafio que te faz pensar 💬
