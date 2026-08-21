@@ -1,5 +1,5 @@
-## Bem vindo ao meu Perfil! 👋
-# Engenheiro de software sendo formado na FATESG. 🔭
+# Bem vindo ao meu Perfil! 👋
+## Engenheiro de software sendo formado na FATESG. 🔭
 Gosto de matemática e de desafios, gosto da sensação de solucionar um problema.
 
 ## 🌱 Meus conhecimentos:
@@ -8,10 +8,10 @@ Gosto de matemática e de desafios, gosto da sensação de solucionar um problem
 - Documentação (ERS/Requisitos);
 - Estruturas de dados (arvores, tabela hash, etc);
 
-## ✨ Linguagens de programação:
+# ✨ Linguagens de programação:
 - Java
 - Python
-# E planejo aprender mais no futuro! ⚡
+## E planejo aprender mais no futuro! ⚡
 
 🤔 Curiosidade:
 já fui medalhista nas olimpíadas matemáticas estaduais, e gosto de um desafio que te faz pensar 💬
